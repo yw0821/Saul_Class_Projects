@@ -1,8 +1,13 @@
-import java.util.*;
-import java.io.*;
+package Readers;
 
-public class BadgeReader  {
-	List<String> badges;
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
+
+public class BadgeReader {
+	public List<String> badges;
 	// int currentBadge;
 	
 	public BadgeReader(String dataFile) {
