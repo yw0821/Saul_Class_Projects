@@ -38,6 +38,8 @@
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
+<<<<<<< HEAD
+=======
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
@@ -54,4 +56,5 @@
       </state>
     </states>
   </component>
+>>>>>>> 6520e02cdd1190574752421658de3489594be4ae
 </project>
