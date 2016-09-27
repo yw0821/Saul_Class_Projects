@@ -16,4 +16,3 @@ annotation-cache/
 */*.swp
 *.swp
 /.idea/
-/.gitignore
