@@ -17,4 +17,3 @@ annotation-cache/
 *.swp
 /.idea/
 /.gitignore
-/project/target/
