@@ -1,5 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
-.DS_Store
+*/.DS_Store
 /RUNNING_PID
 */logs/
 /project/*-shim.sbt
@@ -16,4 +16,3 @@ annotation-cache/
 */*.swp
 *.swp
 /.idea/
-doc/Ethan/.DS_Store
